@@ -59,3 +59,4 @@ cat name.txt cat < name.txt
 cat < name.txt
 echo $NAME
 echo jaren
+touch script.sh
