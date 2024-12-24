@@ -60,3 +60,5 @@ cat < name.txt
 echo $NAME
 echo jaren
 touch script.sh
+__vsc_prompt_cmd_original
+chmod +x script.sh
