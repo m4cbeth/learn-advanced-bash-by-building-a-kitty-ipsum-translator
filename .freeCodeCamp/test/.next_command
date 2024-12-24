@@ -174,3 +174,10 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git remote
 git remote -v
 git add .
+git commit -m "hello"
+git push
+git push origin main
+git remote -v
+git branch --set-upstream-to=origin/main main
+git remote -v
+git add .
