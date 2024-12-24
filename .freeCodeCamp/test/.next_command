@@ -65,3 +65,4 @@ chmod +x script.sh
 ./script.sh
 ./script.sh
 echo jar
+echo jar
