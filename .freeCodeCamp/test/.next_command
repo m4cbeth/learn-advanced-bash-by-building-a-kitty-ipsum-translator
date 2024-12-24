@@ -44,3 +44,5 @@ echo $NAME > stdout.txt
 echo freecodecamp > name.txt
 echo freecodecamp > name.txt
 echo freeCodeCamp > name.txt
+read name.txt < stdin
+read NAME < name.txt
