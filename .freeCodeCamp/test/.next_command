@@ -50,3 +50,4 @@ echo $NAME
 echo jaren
 echo $NAME
 cat
+cat name.txt
