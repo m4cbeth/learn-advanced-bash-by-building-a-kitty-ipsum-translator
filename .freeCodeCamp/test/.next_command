@@ -47,3 +47,4 @@ echo freeCodeCamp > name.txt
 read name.txt < stdin
 read NAME < name.txt
 echo $NAME
+echo jaren
