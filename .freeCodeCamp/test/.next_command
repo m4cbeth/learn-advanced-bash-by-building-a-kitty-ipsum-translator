@@ -67,3 +67,9 @@ chmod +x script.sh
 echo jar
 echo jar
 echo jar
+cat name.txt
+cat name.txt
+echo jar
+echo freeCodeCamp > name.txt
+cat name.txt
+./script.sh < name.txt
